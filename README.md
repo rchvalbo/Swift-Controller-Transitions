@@ -22,4 +22,4 @@ extension YourViewController: UIViewControllerTransitioningDelegate {
 
 This extension will manage any incoming segue and if the 'transition' variable has been set to one of the classes defined in this repo, it will utilize the animation within that class as the transition.
 
-* If you feel comfortable with there transitions, [Go on to the more advanced next step: Interactive swipe gesture transitions](https://github.com/rchvalbo/Interactive-SwipeGesture-Segues-Swift/blob/master/README.md)
+* If you feel comfortable with these transitions, [Go on to the more advanced next step: Interactive swipe gesture transitions](https://github.com/rchvalbo/Interactive-SwipeGesture-Segues-Swift/blob/master/README.md)
